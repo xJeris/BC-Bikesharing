@@ -20,8 +20,14 @@
   
   <li><b>User Trips by Gender by Weekday</b>:<br/>Subscribers to Citibike use the service significantly more than customers taking individual trips.</br></br></li>
   
-  <li><b>Bike Repairs</b>:<br/>NYC Citibike has a large enough fleet of bikes that only about one fourth of them have a high usage volume, and would be due for repairs.</li>
+  <li><b>Bike Repairs</b>:<br/>NYC Citibike has a large enough fleet of bikes that only about one fourth of them have a high usage volume, and are due for repairs.</li>
 </ul>
 
 ### Summary
-<p>Summary text.</p>
+<p>Overall we can infer that the most common usage for NYC Citibike trips is the users daily commute, followed by weekend and evening rides.</p>
+<p>Some addtional analysis that would help inform the existing data would be:
+<ul>
+  <li>A visualization showing the bike stations with the highest usage volumes;</li>
+  <li>An additional visualization that shows bike station usage by time of day.</li>
+</ul>
+This would allow us to see the highest traffic areas, and make sure that there are enough bikes supplied to those stations. Additionally, the bikes at those stations would likely need repairs sooner, as they take the most trips.</p>
